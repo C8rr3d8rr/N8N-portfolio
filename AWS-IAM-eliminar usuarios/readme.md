@@ -2,7 +2,8 @@
 
 # N8N-AWS-IAM-Crear-Eliminar-Usuarios
 Fujo para manipular usuarios de IAM de AWS
-<img width="1492" height="452" alt="image" src="https://github.com/user-attachments/assets/04c6b34f-f19d-4127-8c0c-d0de3c2f62fb" />
+<img width="1557" height="730" alt="image" src="https://github.com/user-attachments/assets/59fca6b3-8662-4a89-81bf-04df8f0f386d" />
+
 
 ## **Como funciona:**
 
