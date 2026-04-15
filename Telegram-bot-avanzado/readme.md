@@ -4,9 +4,7 @@
 # N8N-Telegram
 Flujo de trabajo simple para un bot de telegram
 
-<img width="1303" height="1010" alt="Telegram_Agendar_citas" src="https://github.com/user-attachments/assets/904a1cd1-86ac-419b-8b7c-8c8afff66b31" />
-
-
+<img width="798" height="382" alt="Telegam_IA_agent" src="https://github.com/user-attachments/assets/28abb16f-3e84-4f6d-939e-9dbc748099a0" />
 
 # **Como funciona:**
 
