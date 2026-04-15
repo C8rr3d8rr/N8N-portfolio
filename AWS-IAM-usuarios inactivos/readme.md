@@ -1,7 +1,8 @@
-<img width="1977" height="495" alt="Portada" src="https://github.com/user-attachments/assets/cec06188-b415-42d0-909d-4629b416ed33" />
+<img width="1977" height="495" alt="Portada" src="https://github.com/user-attachments/assets/fea518d4-3c06-49d1-9f77-00a4888b84d8" />
+
 
 # N8N-AWS-IAM-Usuarios-Inactivos
-<img width="2158" height="561" alt="image" src="https://github.com/user-attachments/assets/6a33ebff-acec-4624-a9ce-42a8ce998887" />
+<img width="1802" height="505" alt="Usuarios_inactivos" src="https://github.com/user-attachments/assets/bc280e1d-a2e3-433b-ad9b-2b95f7fcd4b8" />
 
 ## **Como funciona:**
 
